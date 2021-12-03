@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Streh/AndroidStudioProjects/Quick_Quiz_v20/app/src/main/res/drawable/shape_menu_button.xml" value="0.22777777777777777" />
+        <entry key="..\:/Users/Streh/AndroidStudioProjects/Quick_Quiz_v20/app/src/main/res/drawable/shape_text_view_questions.xml" value="0.22037037037037038" />
+        <entry key="..\:/Users/Streh/AndroidStudioProjects/Quick_Quiz_v20/app/src/main/res/drawable/shape_view_holder.xml" value="0.22407407407407406" />
+        <entry key="..\:/Users/Streh/AndroidStudioProjects/Quick_Quiz_v20/app/src/main/res/drawable/shape_view_holder2.xml" value="0.22407407407407406" />
+        <entry key="..\:/Users/Streh/AndroidStudioProjects/Quick_Quiz_v20/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Streh/AndroidStudioProjects/Quick_Quiz_v20/app/src/main/res/layout/fragment_end_of_game.xml" value="0.23143115942028986" />
+        <entry key="..\:/Users/Streh/AndroidStudioProjects/Quick_Quiz_v20/app/src/main/res/layout/fragment_leaders.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Streh/AndroidStudioProjects/Quick_Quiz_v20/app/src/main/res/layout/fragment_leaders_view_holder.xml" value="0.2" />
+        <entry key="..\:/Users/Streh/AndroidStudioProjects/Quick_Quiz_v20/app/src/main/res/layout/fragment_level.xml" value="0.2056159420289855" />
+        <entry key="..\:/Users/Streh/AndroidStudioProjects/Quick_Quiz_v20/app/src/main/res/layout/fragment_rules.xml" value="0.13020833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

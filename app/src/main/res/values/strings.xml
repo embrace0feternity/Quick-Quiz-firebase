@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Quick_Quiz_v2.0</string>
+
+    <string name="StringAppName">Quick Quiz</string>
+    <string name="StringMainMenuTextView">Quick\n\u272AQUIZ</string>
+    <string name="StringMainMenuStartButton">\u0020\u0020Начать игру\u0020\u0020</string>
+    <string name="StringMainMenuRulesButton">Правила игры</string>
+    <string name="StringMainMenuLeaderBoardButton">Таблица лидеров</string>
+
+    <string name="StringRulesButton">\u0020\u0020\u0020Понятно\u0020\u0020\u0020</string>
+    <string name="StringRules">Каждый уровень представляет собой вопрос и
+        4 варианта ответа. Не важно, ответили Вы правильно или нет.
+        Для перехода по уровням, нужно тыкнуть по вопросу. Игра закончится, как только закончатся
+        все уровни. Удачи!
+        </string>
+
+    <string name="StringEditUserNameHint">Введите имя</string>
+    <string name="StringSaveAndClose">Сохранить и закрыть</string>
+
+</resources>

@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Custom application theme. -->
+    <style name="Theme.ThemeAppCustom" parent="Theme.AppCompat.DayNight">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/color_sees_deep</item>
+        <item name="colorPrimaryVariant">@color/color_sosna</item>
+        <item name="colorOnPrimary">@color/color_coral</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/color_my_orange</item>
+        <item name="colorSecondaryVariant">@color/color_sand</item>
+        <item name="colorOnSecondary">@color/color_laguna</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorOnPrimary</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="styleButtons" parent="@style/Theme.ThemeAppCustom">
+        <item name="android:background">@drawable/shape_menu_button</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_marginRight">40dp</item>
+        <item name="android:layout_marginLeft">40dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:padding">15dp</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textColor">@color/color_laguna</item>
+
+    </style>
+</resources>

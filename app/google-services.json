@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "624963124180",
+    "firebase_url": "https://quickquizembrace0feterni-80c47-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "quickquizembrace0feterni-80c47",
+    "storage_bucket": "quickquizembrace0feterni-80c47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624963124180:android:c9d99f30fa80570c23b441",
+        "android_client_info": {
+          "package_name": "com.example.quick_quiz_v20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624963124180-5vlgi0h0nk2qkse673esikjgl9rn7td0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwgbVOR69o-sARqfVca_Cf3hrxLFe5X9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624963124180-5vlgi0h0nk2qkse673esikjgl9rn7td0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

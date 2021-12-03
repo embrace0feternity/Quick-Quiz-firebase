@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/color_sosna"
+    >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:padding="10dp"
+        android:text="@string/StringRules"
+        android:textColor="@color/color_sees_deep"
+        android:textSize="20sp"
+        >
+    </TextView>
+    <Button
+        android:id="@+id/idButtonClear"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="30dp"
+        android:paddingRight="30dp"
+        android:paddingLeft="30dp"
+        android:layout_gravity="center"
+        android:text="@string/StringRulesButton"
+        android:textSize="20sp"
+        android:background="@drawable/shape_menu_button"
+        >
+    </Button>
+
+</LinearLayout>
